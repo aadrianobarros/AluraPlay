@@ -1,4 +1,4 @@
-# AluraPlay
+#AluraPlay
 Usado para estudo de flexbox e layouts responsivos
-### Acesse o link:
+###Acesse o link:
 https://aadrianobarros.github.io/AluraPlay/
